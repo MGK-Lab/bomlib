@@ -8,7 +8,6 @@ dependencies:
   - requests
   - bs4
   - pandas
-  - anaconda tk
   - pip
   - pip:
     - schedule
