@@ -1,0 +1,14 @@
+# run: conda env create -f bomlib_conda_env.yml
+
+name: bomlib
+channels:
+  - defaults
+dependencies:
+  - python
+  - requests
+  - bs4
+  - pandas
+  - anaconda tk
+  - pip
+  - pip:
+    - schedule
